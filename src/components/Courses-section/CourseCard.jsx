@@ -28,7 +28,7 @@ const CourseCard = (props) => {
           </p>
 
           <p className="enroll d-flex align-items-center gap-1">
-          // eslint-disable-next-line
+         {/* eslint-disable-next-line  */}
             <a href="#"> Enroll Now</a>
           </p>
         </div>
